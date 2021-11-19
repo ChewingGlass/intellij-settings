@@ -1,0 +1,167 @@
+<application>
+  <component name="libraryTable">
+    <library name="groovy-3.0.7">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/gpars-1.2.1.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/commons-logging-1.2.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/groovy-jsr223-3.0.7.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/javax.servlet.jsp-api-2.3.3.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/groovy-xml-3.0.7.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/groovy-test-junit5-3.0.7.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/groovy-3.0.7.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/groovy-dateutil-3.0.7.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/jsr166y-1.7.0.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/testng-7.3.0.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/jcommander-1.78.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/xstream-1.4.14.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/ant-antlr-1.10.9.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/bsf-2.4.0.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/junit-4.13.1.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/multiverse-core-0.7.0.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/groovy-astbuilder-3.0.7.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/groovy-nio-3.0.7.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/groovy-macro-3.0.7.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/groovy-templates-3.0.7.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/groovy-groovysh-3.0.7.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/groovy-bsf-3.0.7.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/jline-2.14.6.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/qdox-1.12.1.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/groovy-test-3.0.7.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/org.abego.treelayout.core-1.0.1.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/groovy-cli-commons-3.0.7.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/snakeyaml-1.26.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/groovy-cli-picocli-3.0.7.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/ant-junit-1.10.9.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/commons-cli-1.4.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/junit-jupiter-api-5.7.0.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/groovy-groovydoc-3.0.7.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/jackson-core-2.11.3.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/junit-jupiter-engine-5.7.0.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/groovy-sql-3.0.7.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/groovy-yaml-3.0.7.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/ivy-2.5.0.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/javax.servlet-api-4.0.1.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/groovy-testng-3.0.7.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/groovy-json-3.0.7.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/groovy-ant-3.0.7.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/groovy-swing-3.0.7.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/groovy-servlet-3.0.7.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/hamcrest-core-1.3.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/jackson-databind-2.11.3.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/jackson-annotations-2.11.3.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/jackson-dataformat-yaml-2.11.3.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/ant-1.10.9.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/groovy-console-3.0.7.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/junit-platform-engine-1.7.0.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/groovy-jmx-3.0.7.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/javaparser-core-3.17.0.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/jansi-1.18.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/junit-platform-launcher-1.7.0.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/groovy-jaxb-3.0.7.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/groovy-docgenerator-3.0.7.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/ant-launcher-1.10.9.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/groovy-datetime-3.0.7.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/opentest4j-1.2.0.jar!/" />
+        <root url="jar://$USER_HOME$/groovy-3.0.7/lib/junit-platform-commons-1.7.0.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Python 3.6 (tracing_path_writer) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.conda/envs/tracing_path_writer/lib/python3.6" />
+        <root url="file://$USER_HOME$/.conda/envs/tracing_path_writer/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/.conda/envs/tracing_path_writer/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.2/python_stubs/-1049992444" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.conda/envs/tracing_path_writer/lib/python3.6" />
+        <root url="file://$USER_HOME$/.conda/envs/tracing_path_writer/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/.conda/envs/tracing_path_writer/lib/python3.6/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.2/python_stubs/-1049992444" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.8 Brew interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/homebrew/Cellar/python@3.8/3.8.6/Frameworks/Python.framework/Versions/3.8/lib/python3.8" />
+        <root url="file://$USER_HOME$/homebrew/Cellar/python@3.8/3.8.6/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload" />
+        <root url="file://$USER_HOME$/homebrew/lib/python3.8/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.2/python_stubs/649566487" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/homebrew/Cellar/python@3.8/3.8.6/Frameworks/Python.framework/Versions/3.8/lib/python3.8" />
+        <root url="file://$USER_HOME$/homebrew/Cellar/python@3.8/3.8.6/Frameworks/Python.framework/Versions/3.8/lib/python3.8/lib-dynload" />
+        <root url="file://$USER_HOME$/homebrew/lib/python3.8/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.2/python_stubs/649566487" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.8 interpreter library">
+      <CLASSES>
+        <root url="file:///Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8" />
+        <root url="file:///Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/lib-dynload" />
+        <root url="file:///Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.2/python_stubs/-2066100795" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file:///Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8" />
+        <root url="file:///Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/lib-dynload" />
+        <root url="file:///Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.8/lib/python3.8/site-packages" />
+        <root url="file://$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.2/python_stubs/-2066100795" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="scala-sdk-2.12.8" type="Scala">
+      <properties>
+        <compiler-classpath>
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.12.8.jar" />
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.8.jar" />
+          <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.8.jar" />
+        </compiler-classpath>
+      </properties>
+      <CLASSES>
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.12.8.jar!/" />
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.8.jar!/" />
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-reflect/srcs/scala-reflect-2.12.8-sources.jar!/" />
+        <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.8-sources.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
